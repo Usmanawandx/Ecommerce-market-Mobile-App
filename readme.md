@@ -1,5 +1,5 @@
-ECP Market - React Native Ecommerce Application
-Welcome to ECP Market, your go-to destination for all your online shopping needs! Our React Native Ecommerce Application offers a seamless and intuitive shopping experience, allowing users to browse, search, and purchase a wide range of products from the comfort of their mobile devices. Whether you're shopping for electronics, fashion, home essentials, or groceries, ECP Market has you covered with a vast selection of high-quality products from trusted sellers.
+Ecommerce Market - React Native Ecommerce Application
+Welcome to  your go-to destination for all your online shopping needs! Our React Native Ecommerce Application offers a seamless and intuitive shopping experience, allowing users to browse, search, and purchase a wide range of products from the comfort of their mobile devices. Whether you're shopping for electronics, fashion, home essentials, or groceries, Ecommerce has you covered with a vast selection of high-quality products from trusted sellers.
 
 Key Features:
 User-Friendly Interface:
@@ -23,4 +23,4 @@ Reviews and Ratings:
 Make informed purchasing decisions with user-generated reviews and ratings for products, providing valuable insights and feedback from fellow shoppers.
 
 Notifications:
-Stay informed about new arrivals, exclusive offers, and order updates with push notifications, keeping you up-to-date with the latest developments on ECP Market.
+Stay informed about new arrivals, exclusive offers, and order updates with push notifications, keeping you up-to-date with the latest developments on Ecommerce.
